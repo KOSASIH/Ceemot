@@ -1,0 +1,6 @@
+{
+    "name": "buy",
+    "type": "http",
+    "config": {},
+    "version": 1
+}
