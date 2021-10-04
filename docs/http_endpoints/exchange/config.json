@@ -1,0 +1,6 @@
+{
+    "name": "exchange",
+    "type": "http",
+    "config": {},
+    "version": 1
+}
