@@ -1,0 +1,6 @@
+{
+    "name": "payment_gateway",
+    "type": "http",
+    "config": {},
+    "version": 1
+}
