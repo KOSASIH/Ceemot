@@ -1,0 +1,6 @@
+{
+    "name": "transfer",
+    "type": "http",
+    "config": {},
+    "version": 1
+}
