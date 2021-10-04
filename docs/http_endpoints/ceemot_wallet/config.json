@@ -1,5 +1,5 @@
 {
-    "name": "payment_gateway",
+    "name": "ceemot_wallet",
     "type": "http",
     "config": {},
     "version": 1
