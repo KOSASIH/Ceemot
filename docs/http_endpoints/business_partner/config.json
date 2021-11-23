@@ -1,6 +1,6 @@
 {
-    "name": "business_partner",
-    "type": "http",
-    "config": {},
-    "version": 1
+  "name": "business_partner",
+  "type": "http",
+  "config": {},
+  "version": 1
 }

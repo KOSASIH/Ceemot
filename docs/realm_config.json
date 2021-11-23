@@ -1,8 +1,8 @@
 {
-    "app_id": "ceemot-rsyan",
-    "config_version": 20210101,
-    "name": "Ceemot",
-    "location": "SG",
-    "deployment_model": "LOCAL",
-    "environment": "development"
+  "app_id": "ceemot-rsyan",
+  "config_version": 20210101,
+  "name": "Ceemot",
+  "location": "SG",
+  "deployment_model": "LOCAL",
+  "environment": "development"
 }

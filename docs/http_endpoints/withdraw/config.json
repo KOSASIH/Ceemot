@@ -1,6 +1,6 @@
 {
-    "name": "withdraw",
-    "type": "http",
-    "config": {},
-    "version": 1
+  "name": "withdraw",
+  "type": "http",
+  "config": {},
+  "version": 1
 }
