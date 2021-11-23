@@ -1,6 +1,6 @@
 {
-    "name": "global_trade",
-    "type": "http",
-    "config": {},
-    "version": 1
+  "name": "global_trade",
+  "type": "http",
+  "config": {},
+  "version": 1
 }
