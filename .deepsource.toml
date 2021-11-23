@@ -1,6 +1,16 @@
 version = 1
 
 [[analyzers]]
+name = "javascript"
+enabled = true
+
+  [analyzers.meta]
+  plugins = [
+    "react",
+    "angularjs"
+  ]
+
+[[analyzers]]
 name = "go"
 enabled = true
 
@@ -94,4 +104,8 @@ enabled = true
 
 [[transformers]]
 name = "scalafmt"
+enabled = true
+
+[[transformers]]
+name = "standardjs"
 enabled = true
