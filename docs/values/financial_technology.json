@@ -1,5 +1,5 @@
 {
-    "name": "financial_technology",
-    "value": "Fintech",
-    "from_secret": true
+  "name": "financial_technology",
+  "value": "Fintech",
+  "from_secret": true
 }
